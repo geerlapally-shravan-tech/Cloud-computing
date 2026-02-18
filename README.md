@@ -1,19 +1,32 @@
-# Cloud Computing Course Repository
+# Cloud Computing — Course Repository
 
-This repository contains course materials for Cloud Computing:
+This repository hosts all academic materials and activities for the Cloud Computing course.
+
+## Contents
 - Syllabus
-- Unit notes
-- Lab guides
+- Unit-wise notes
+- Lab guides and exercises
 - Assignments
 - Quiz bank
-- Mini projects
-- Student submissions
+- Mini-project templates
+- Student submission references
+- Learning resources
 
-## Submission Rules
-All labs and projects must be submitted as GitHub repository links.
-ZIP files and email attachments will not be accepted.
+## Student Submission Policy
+- All lab work and projects must be submitted as GitHub repository links.
+- Submissions via ZIP files, screenshots, or email attachments will not be evaluated.
+- Each submission must include proper file names and documentation.
 
-## Tools Used
-- GitHub for project storage
-- Google Classroom for quizzes and announcements
-- NotebookLM for summaries and question generation
+## Weekly Workflow
+- Lecture notes are uploaded unit-wise.
+- Labs are published with step-by-step guides.
+- Quizzes are conducted through Google Classroom.
+- Projects are reviewed through GitHub repositories.
+
+## Tools Used in This Course
+- GitHub — project storage and version control
+- Google Classroom — quizzes and announcements
+- NotebookLM — summary and question generation support
+
+## Folder Structure
+Refer to repository folders for organized course materials and submission areas.
